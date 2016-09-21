@@ -14,6 +14,7 @@
 				include('modules/menu.php');
 				include('modules/content.php');
 				include('modules/footer.php');
+				echo "master";
 			?>
  		</div>
     </body>
